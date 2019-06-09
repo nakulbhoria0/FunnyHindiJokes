@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/best_funny"
+            android:title="@string/best_funny" />
+        <item
+            android:id="@+id/attitude"
+            android:title="@string/attitude_status" />
+        <item
+            android:id="@+id/cool_status"
+            android:title="@string/cool_status" />
+        <item
+            android:id="@+id/father_son"
+            android:title="@string/father_son" />
+        <item
+            android:id="@+id/funny_shayari"
+            android:title="@string/funny_shayari" />
+        <item
+            android:id="@+id/husband_wife"
+            android:title="@string/husband_wife" />
+        <item
+            android:id="@+id/kanpuriya_jokes"
+            android:title="@string/kanpuriya" />
+        <item
+            android:id="@+id/latest_funny"
+            android:title="@string/latest_funny" />
+        <item
+            android:id="@+id/pappu_jokes"
+            android:title="@string/pappu" />
+        <item
+            android:id="@+id/positive"
+            android:title="@string/positive_quotes" />
+        <item
+            android:id="@+id/santa_banta"
+            android:title="@string/santa_banta" />
+        <item
+            android:id="@+id/sardar_jokes"
+            android:title="@string/sardar" />
+        <item
+            android:id="@+id/short_jokes"
+            android:title="@string/short_jokes" />
+        <item
+            android:id="@+id/teacher"
+            android:title="@string/teacher_student" />
+        <item
+            android:id="@+id/favorite"
+            android:title="@string/favorite_jokes" />
+    </group>
+
+
+</menu>

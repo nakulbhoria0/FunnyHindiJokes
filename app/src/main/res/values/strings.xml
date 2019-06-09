@@ -1,0 +1,148 @@
+
+<resources>
+    <string name="interstitial_test_ad">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="interstitial_ad">ca-app-pub-2178015702183927/1772107559</string>
+    <string name="app_name" translatable="false">Funny Hindi Jokes</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="action_share" translatable="false">Share</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+
+    <string name="attitude_status" translatable="false">Attitude Whatsapp Status</string>
+    <string name="best_funny" translatable="false">Best Funny Jokes</string>
+    <string name="cool_status" translatable="false">Cool Whatsapp Status</string>
+    <string name="father_son" translatable="false">Father Son Jokes</string>
+    <string name="funny_shayari" translatable="false">Funny Shayari</string>
+    <string name="husband_wife" translatable="false">Husband Wife Jokes</string>
+    <string name="kanpuriya" translatable="false">Kanpuriya Jokes</string>
+    <string name="latest_funny" translatable="false">Latest Funny Jokes</string>
+    <string name="pappu" translatable="false">Pappu Jokes</string>
+    <string name="positive_quotes" translatable="false">Positive Quotes</string>
+    <string name="santa_banta" translatable="false">Santa Banta Jokes</string>
+    <string name="sardar" translatable="false">Sardar Jokes</string>
+    <string name="short_jokes" translatable="false">Short Jokes</string>
+    <string name="teacher_student" translatable="false">Teacher Student Jokes</string>
+
+    <!-- NativeAd -->
+    <string name="refresh_now" translatable="false">Refresh Now</string>
+    <string name="show_code" translatable="false">Show Code</string>
+    <string name="load_native_ad" translatable="false">Load Native Ad</string>
+    <string name="reload_native_ads_hscroll" translatable="false">Reload ads</string>
+    <string name="load_rewarded_video" translatable="false">Load Rewarded Video</string>
+    <string name="show_ad" translatable="false">Show!</string>
+    <string name="icon_desc" translatable="false">Ad icon</string>
+    <string name="image_desc" translatable="false">Ad image</string>
+    <string name="style" translatable="false">Style</string>
+    <string name="adview_type" translatable="false">AdView Type</string>
+    <string name="select_sample" translatable="false">Select an option</string>
+    <string name="load_interstitial" translatable="false">Load Interstitial</string>
+
+
+    <string name="attitude_1">1. Before you judge me make sure that you’re perfect.. ??</string>
+    <string name="attitude_2">2. It’s better to live alone. There is no friendship with a fool.</string>
+    <string name="attitude_3">3. Style is a way to say who u are without speaking.</string>
+    <string name="attitude_4">4. Always remember you are unique, just like everyone else. !!</string>
+    <string name="attitude_5">5. People say I have a dirty mind, But I’m say its just creative! !!</string>
+    <string name="attitude_6">6. Some people R just so FAKE that if u look properly at the back of their neck, you’ll find a tag saying “MADE IN CHINA”</string>
+    <string name="attitude_7">7. When someone says: u are UGLY TELL them oh sorry I was trying to look like you!!</string>
+    <string name="attitude_8">8. A bad attitude is like a flat tire. If u don’t change it, you’ll never go anywhere.</string>
+    <string name="attitude_9">9. I don’t have an attitude!! I have a personality U can’t handle!!!</string>
+    <string name="attitude_10">10. I’m single as my love story is being written by god and he is busy is making it best.</string>
+    <string name="attitude_11">11. Anyone who has never made a mistake has never tried anything new. !!</string>
+    <string name="attitude_12">12. If you obey all the rules, you’ll miss all the fun.!!!</string>
+    <string name="attitude_13">13. I’m not changed it’s just I grew up and u should try too.</string>
+    <string name="attitude_14">14. My personality is who I am and my attitude depends on who you are!</string>
+    <string name="attitude_15">15. I never insult people I only tell them what they R.</string>
+    <string name="attitude_16">16. Everything that kills me makes me feel alive.!!</string>
+    <string name="attitude_17">17. If u think I am BAD than you’re wrong, I’m the worst.</string>
+    <string name="attitude_18">18. I enjoy when people show Attitude to me coz it shows that they need an Attitude to impress me!</string>
+    <string name="attitude_19">19. I don’t have a bad handwriting, I have my own FONT. !!</string>
+    <string name="attitude_20">20. Please don’t get confused between my personality and my attitude.</string>
+    <string name="attitude_21">21. My attitude based on how u treat me.</string>
+    <string name="attitude_22">22. I May Be Wrong…. But I Doubt It.</string>
+    <string name="attitude_23">23. I Am Not A Nerd, I M Just Smarter Than You.</string>
+    <string name="attitude_24">24. Everything That Kills Me Makes Me Feel Alive.</string>
+    <string name="attitude_25">25. I’M Sorry My Fault. I Forgot You’Re An Idiot.</string>
+    <string name="attitude_26">26. Don’T Take My Kindness As A Sign Of Weakness.</string>
+    <string name="attitude_27">27. The Only Disability In Life Is A Bad Attitude.</string>
+    <string name="attitude_28">28. Sometimes You Have To Know When To Stop Hoping.</string>
+    <string name="attitude_29">29. My Level Of Maturity Is Depends On Who I’M With.</string>
+    <string name="attitude_30">30. Do You Want To Judge Me? Please Take A Look At You.</string>
+    <string name="attitude_31">31. I’M A Nobody, Nobody Is Perfect, Therefore I’M Perfect.</string>
+    <string name="attitude_32">32. Attitude Is Like Underwear- Don’T Show It Just Wore It.</string>
+    <string name="attitude_33">33. I Hate The Moment When Suddenly My Anger Turns Into Tears.</string>
+    <string name="attitude_34">34. Attitude Is Like A Price Tag, It Shows How Valuable You Are.</string>
+    <string name="attitude_35">35. Age Has Been The Perfect Fire Extinguisher For Flaming Youth.</string>
+    <string name="attitude_36">36. People Say I Have A Dirty Mind, But I’M Say Its Just Creative!</string>
+    <string name="attitude_37">37. Friends Make The Bad Times Good… And The Good Times Unforgettable.</string>
+    <string name="attitude_38">38. Kiss Me, And You May See Stars, Love Me And I Will Give Them To You.</string>
+    <string name="attitude_39">39. Find Out What You Like Doing Best And Get Someone To Pay You For Doing It.</string>
+    <string name="attitude_40">40. My Parents Should Be Proud Of Me Because I’M Addicted To Facebook Not To Drugs!</string>
+    <string name="attitude_41">41. I Am Not A Spider Man Nor A Superman, However I Am Superhero For My Girl Friend !</string>
+    <string name="attitude_42">42. I Am Not Made Or Unmade By The Things Which Happen To Me But My Reaction To Them.</string>
+    <string name="attitude_43">43. Your Attitude Belongs To You And It’S Your Choice If You Want To Have A Good One.</string>
+    <string name="attitude_44">44. Girls Express Their Feelings Via Tears. Boys Express Their Feelings Via Beers.</string>
+    <string name="attitude_45">45. Don’T Judge My Past, Look At My Present, I Am Sure My Future Is Really Rocking.</string>
+    <string name="attitude_46">46. Your Attitude Belongs To You And It’S Your Choice If You Want To Have A Good One.</string>
+    <string name="attitude_47">47. I Forgive But Never Forgot.</string>
+    <string name="attitude_48">48. Waiting For Wi-Fi Network.</string>
+    <string name="attitude_49">49. Nobody Move. I Just Lost My Mind.</string>
+    <string name="attitude_50">50. I Am Hot Dude With A Cool Attitude.</string>
+    <string name="jokes_categories">Jokes Categories</string>
+    <string name="action_favorite_jokes">Favorite Jokes</string>
+    <string name="empty_view_text">Click on the Like button to add Jokes to your Favorites</string>
+    <string name="favorite_jokes">Favorite Jokes</string>
+    <string name="set_background">Set Background</string>
+    <string name="background_settings">Background Settings</string>
+    <string name="share_app">Share App</string>
+    <string name="contact_us">Contact us</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="text_size">Text Size</string>
+    <string name="rate_us">Rate us</string>
+    <string name="privacy_policy_text">read Privacy Policy for Funny Hindi Jokes App</string>
+    <string name="contact_us_text1">Contact us on our Email - nakulbhoria63845@gmail.com or fill Contact form Here</string>
+    <string name="about_text">&#169; 2019, www.funny-jokes.in.net\n\nWebsite: www.funny-jokes.in.net</string>
+
+
+    <string-array name="code_snippet">
+        <item>protected void onCreate(Bundle savedInstanceState) {</item>
+        <item>\t...</item>
+        <item>\tnativeAdContainer = (LinearLayout) findViewById(R.id.nativeAdContainer);</item>
+        <item>\tnativeAd = new NativeAd(NativeTemplateActivity.this, "YOUR_PLACEMENT_ID");</item>
+        <item>\tnativeAd.setAdListener(NativeTemplateActivity.this);</item>
+        <item>\tnativeAd.loadAd();</item>
+        <item>\t...</item>
+        <item>}</item>
+        <item> </item>
+        <item>public void onAdLoaded(Ad ad) {</item>
+        <item>\t...</item>
+        <item>\tNativeAdViewAttributes adViewAttributes = new NativeAdViewAttributes();</item>
+        <item>\tadViewAttributes.setBackgroundColor(adBackgroundColor);</item>
+        <item>\tadViewAttributes.setTitleTextColor(adTitleColor);</item>
+        <item>\t...</item>
+        <item>\tNativeAdViewType viewType = NativeAdViewType.HEIGHT_300;</item>
+        <item>\tView adView = NativeAdView.render(this, nativeAd, viewType, adViewAttributes);</item>
+        <item>\tnativeAdContainer.addView(adView, 0);</item>
+        <item>\t...</item>
+        <item>}</item>
+    </string-array>
+
+
+    <string-array name="background_color_array">
+        <item>White</item>
+        <item>Black</item>
+        <item>Blue</item>
+    </string-array>
+
+    <string-array name="adview_type_array">
+        <item>Height_300</item>
+        <item>Height_400</item>
+    </string-array>
+
+    <string-array name="dialog">
+        <item>Remove from Favorites</item>
+        <item>Copy</item>
+        <item>Share</item>
+    </string-array>
+
+</resources>
